@@ -1,3 +1,9 @@
+---
+layout: post
+title: Google Anayltics 
+---
+
+
 #### Q. what is the difference between google analytic and webmaster ?
 
 #### Q. do i need to install both bbu.hk and www.bbu.hk for the site ? which one to use ?
