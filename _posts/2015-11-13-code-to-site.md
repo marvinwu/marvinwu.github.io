@@ -1,3 +1,9 @@
+---
+layout: post
+title: How to build a site & its content from code ? 
+---
+
+
 ## How to use wordpress github sync to eidt and sync post ?
 
 git clone the repo:
