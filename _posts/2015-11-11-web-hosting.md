@@ -1,23 +1,22 @@
 ---
 layout: post
-title: How to Host a site 
+title: JekyLL 
 ---
 
 
+## Probably I should do this ?
 
 [hosting on github & dropbox ??](http://alexcican.com/post/guide-hosting-website-dropbox-github/)
 
 
-https://github.com/jekyll/jekyll
 
-
-#### what is the difference between user and proejcdt site ?
+## what is the difference between user and proeject site ?
 
 
 mainly project site you need to host at sub directory
 
 
-#### how to setup jkyLL ?
+## how to setup jekyLL locally ??
 
 * create a github page 
 * clone to your local,
@@ -25,16 +24,17 @@ mainly project site you need to host at sub directory
 
 use the [official image](https://github.com/jekyll/docker):
 
+~~~
 docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll \
   -it -p 4000:4000 jekyll/jekyll jekyll s
-
+~~~
 
   http://ip:4000
 
-  #### how to change JKYLL themes ?
+  ## how to change JKYLL themes ?
 
   
-#### how to use wordpress github sync ?
+## how to use wordpress github sync ?
 
 * [create a personal token](https://github.com/settings/tokens/new)
 
