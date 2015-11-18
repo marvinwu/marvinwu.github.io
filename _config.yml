@@ -4,7 +4,7 @@ description: >
   My Study Notes On Git Docker and Other Cool stuff
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "marvinwu.github.io" # the base hostname & protocol for your site
+url: "http://marvinwu.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: marvinwu
